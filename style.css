@@ -1,0 +1,35 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.cuadro {
+height: 200px;
+opacity: 0.5;
+transition: opacity 500ms;
+}
+
+#cuadro-1 {
+background-color: red;
+border-radius: 30px;
+}
+
+#cuadro-2 {
+background-color: blue;
+border-radius: 30px;
+}
+
+#cuadro-3 {
+background-color: yellow;
+border-radius: 30px;
+}
+
+#cuadro-4 {
+background-color: green;
+border-radius: 30px;
+}
+
+.row {
+margin-bottom: 30px;
+}
